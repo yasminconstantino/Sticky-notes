@@ -1,7 +1,7 @@
   <h1>Sticky Notes</h1>  <img src="stickyNote.png" width="36"/>
   <p>A simple sticky notes website.</p>
 
-  <img src="print.png" width="500"/>
+  <img src="notes.png" width="500"/>
   
   <p>You can check the page, and see it working <a href="https://yasminconstantino.github.io/Sticky-notes/">here</a></p>
 
